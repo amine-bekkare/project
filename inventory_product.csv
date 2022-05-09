@@ -1,0 +1,5 @@
+,id,title,quantity,type
+0,1,compteur,1000,Mesure_energie
+1,2,disjoncteur,500,element_protection
+2,3,contacteur,500,element_de_commandes
+3,4,led,20000,recepteur
